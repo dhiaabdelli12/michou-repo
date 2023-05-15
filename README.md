@@ -11,7 +11,7 @@ Example
 ```
 >>> write a sentence
 >>> My name is michou
->>> 3
+>>> 2
 ```
 
 
